@@ -1,0 +1,64 @@
+{
+  "scraped_at": "2026-04-26T13:31:20.271042",
+  "source": "databoks.katadata.co.id",
+  "data": {
+    "source": "databoks.katadata.co.id",
+    "url": "https://databoks.katadata.co.id/energi/statistik/69e57f877c750/harga-bbm-non-subsidi-pertamina-melonjak-pada-april-2026-ini-rinciannya",
+    "date": "2026-04-18",
+    "fuels": {
+      "non_subsidi": [
+        {
+          "type": "Pertamina Dex",
+          "before_price": 14500,
+          "after_price": 23900,
+          "currency": "IDR",
+          "unit": "liter"
+        },
+        {
+          "type": "Dexlite",
+          "before_price": 14200,
+          "after_price": 23600,
+          "currency": "IDR",
+          "unit": "liter"
+        },
+        {
+          "type": "Pertamax Turbo",
+          "before_price": 13100,
+          "after_price": 19400,
+          "currency": "IDR",
+          "unit": "liter"
+        },
+        {
+          "type": "Pertamax Green 95",
+          "before_price": 12900,
+          "after_price": 12900,
+          "currency": "IDR",
+          "unit": "liter"
+        },
+        {
+          "type": "Pertamax",
+          "before_price": 12600,
+          "after_price": 12600,
+          "currency": "IDR",
+          "unit": "liter"
+        }
+      ],
+      "subsidi": [
+        {
+          "type": "Pertalite",
+          "before_price": 10000,
+          "after_price": 10000,
+          "currency": "IDR",
+          "unit": "liter"
+        },
+        {
+          "type": "Biosolar",
+          "before_price": 6800,
+          "after_price": 6800,
+          "currency": "IDR",
+          "unit": "liter"
+        }
+      ]
+    }
+  }
+}

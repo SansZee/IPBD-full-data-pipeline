@@ -1,0 +1,67 @@
+{
+  "scraped_at": "2026-04-26T16:56:10.165572",
+  "source": "cnbcindonesia.com",
+  "data": {
+    "source": "cnbcindonesia.com",
+    "url": "https://www.cnbcindonesia.com/news/20260401135116-4-723193/harga-bbm-terbaru-di-asean-singapura-termahal-ri-paling-murah",
+    "date": "2026-03-30",
+    "countries": [
+      {
+        "country": "Indonesia",
+        "currency": "IDR",
+        "gasoline_price": 10000,
+        "diesel_price": 6800,
+        "unit": "liter"
+      },
+      {
+        "country": "Malaysia",
+        "currency": "IDR",
+        "gasoline_price": 16268,
+        "diesel_price": 23211,
+        "unit": "liter"
+      },
+      {
+        "country": "Singapore",
+        "currency": "IDR",
+        "gasoline_price": 43308,
+        "diesel_price": 50676,
+        "unit": "liter"
+      },
+      {
+        "country": "Filipina",
+        "currency": "IDR",
+        "gasoline_price": 24316,
+        "diesel_price": 33591,
+        "unit": "liter"
+      },
+      {
+        "country": "Thailand",
+        "currency": "IDR",
+        "gasoline_price": 27200,
+        "diesel_price": 20811,
+        "unit": "liter"
+      },
+      {
+        "country": "Laos",
+        "currency": "IDR",
+        "gasoline_price": 30243,
+        "diesel_price": 32145,
+        "unit": "liter"
+      },
+      {
+        "country": "Kamboja",
+        "currency": "IDR",
+        "gasoline_price": 26282,
+        "diesel_price": 30562,
+        "unit": "liter"
+      },
+      {
+        "country": "Myanmar",
+        "currency": "IDR",
+        "gasoline_price": 26656,
+        "diesel_price": 29626,
+        "unit": "liter"
+      }
+    ]
+  }
+}
