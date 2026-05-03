@@ -385,7 +385,7 @@ with DAG(
     "energy_data_ingestion",
     default_args=DEFAULT_ARGS,
     description="Ingest ASEAN energy data into Postgres",
-    schedule_interval="@daily",
+    schedule="@daily",
     start_date=datetime.now() - timedelta(days=1),
     catchup=False,
     tags=["energy", "asean", "etl"],
