@@ -183,13 +183,18 @@ def load_coal_production():
             series = country_info.get("series", {})
             for series_id, series_info in series.items():
                 for record in series_info.get("values", []):
+                    val = record["value"]
+                    try:
+                        val = float(val)
+                    except (ValueError, TypeError):
+                        val = None
                     cur.execute(
                         """
                         INSERT INTO fact_coal_production (country_id, series_id, year, value)
                         VALUES (%s, %s, %s, %s)
                         ON CONFLICT (country_id, series_id, year) DO UPDATE SET value = EXCLUDED.value
                         """,
-                        (country_id, series_id, record["year"], record["value"]),
+                        (country_id, series_id, record["year"], val),
                     )
                     total += 1
 
@@ -222,13 +227,18 @@ def load_electricity_imports():
             series = country_info.get("series", {})
             for series_id, series_info in series.items():
                 for record in series_info.get("values", []):
+                    val = record["value"]
+                    try:
+                        val = float(val)
+                    except (ValueError, TypeError):
+                        val = None
                     cur.execute(
                         """
                         INSERT INTO fact_electricity_imports (country_id, series_id, year, value)
                         VALUES (%s, %s, %s, %s)
                         ON CONFLICT (country_id, series_id, year) DO UPDATE SET value = EXCLUDED.value
                         """,
-                        (country_id, series_id, record["year"], record["value"]),
+                        (country_id, series_id, record["year"], val),
                     )
                     total += 1
 
@@ -386,7 +396,7 @@ with DAG(
     default_args=DEFAULT_ARGS,
     description="Ingest ASEAN energy data into Postgres",
     schedule="@daily",
-    start_date=datetime.now() - timedelta(days=1),
+    start_date=datetime(2026, 5, 2),
     catchup=False,
     tags=["energy", "asean", "etl"],
 ) as dag:
