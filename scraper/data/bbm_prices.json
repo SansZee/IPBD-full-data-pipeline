@@ -1,0 +1,1259 @@
+{
+  "scraped_at": "2026-04-26T11:35:46.859780",
+  "source": "goodstats.id",
+  "total_records": 41,
+  "records": [
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "aceh",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "bali",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "riau",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 13100
+        },
+        {
+          "type": "dexlite",
+          "price": 13900
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 14100
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 14250
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "batam",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12000
+        },
+        {
+          "type": "dexlite",
+          "price": 12640
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 12800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13000
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "jambi",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "papua",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "banten",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertamax_green95",
+          "price": 13250
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "maluku",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "sabang",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 11800
+        },
+        {
+          "type": "dexlite",
+          "price": 12460
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "jakarta",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertamax_green95",
+          "price": 13250
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "lampung",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "bengkulu",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 13100
+        },
+        {
+          "type": "dexlite",
+          "price": 13900
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 14100
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 14250
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "gorontalo",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "jawa-barat",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertamax_green95",
+          "price": 13250
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "jawa-timur",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertamax_green95",
+          "price": 13250
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "jawa-tengah",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertamax_green95",
+          "price": 13250
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "papua-barat",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "maluku-utara",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "papua-tengah",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "di-yogyakarta",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertamax_green95",
+          "price": 13250
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "papua-selatan",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "kepulauan-riau",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 13100
+        },
+        {
+          "type": "dexlite",
+          "price": 13900
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 14100
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 14250
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "sulawesi-barat",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "sumatera-barat",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 13100
+        },
+        {
+          "type": "dexlite",
+          "price": 13900
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 14100
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 14250
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "sumatera-utara",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "bangka-belitung",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "sulawesi-tengah",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "kalimantan-barat",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "kalimantan-timur",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "kalimantan-utara",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "papua-barat-daya",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "papua-pegunungan",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "sulawesi-selatan",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "sumatera-selatan",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "kalimantan-tengah",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "sulawesi-tenggara",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12800
+        },
+        {
+          "type": "dexlite",
+          "price": 13610
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13800
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13950
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "kalimantan-selatan",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 13100
+        },
+        {
+          "type": "dexlite",
+          "price": 13900
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 14100
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 14250
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "nusa-tenggara-barat",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "pertamina",
+      "region": "nusa-tenggara-timur",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "pertamax",
+          "price": 12500
+        },
+        {
+          "type": "dexlite",
+          "price": 13320
+        },
+        {
+          "type": "bio_solar_non_subsidi",
+          "price": 13220
+        },
+        {
+          "type": "bio_solar",
+          "price": 6800
+        },
+        {
+          "type": "pertamax_turbo",
+          "price": 13500
+        },
+        {
+          "type": "pertalite",
+          "price": 10000
+        },
+        {
+          "type": "pertamina_dex",
+          "price": 13650
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "bp",
+      "region": "jakarta",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "bp_ultimate",
+          "price": 13420
+        },
+        {
+          "type": "bp_92",
+          "price": 12890
+        },
+        {
+          "type": "bp_ultimate_diesel",
+          "price": 14270
+        }
+      ]
+    },
+    {
+      "source": "goodstats.id",
+      "brand": "bp",
+      "region": "jawa-timur",
+      "date": "2026-04-26",
+      "fuels": [
+        {
+          "type": "bp_ultimate",
+          "price": 13420
+        },
+        {
+          "type": "bp_92",
+          "price": 12890
+        },
+        {
+          "type": "bp_ultimate_diesel",
+          "price": 14270
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+services:
+  airflow:
+    image: apache/airflow:3.2.1
+    container_name: airflow
+    ports:
+      - "8080:8080"
+    volumes:
+      - D:/INFRA_BIG_DATA/Projek_IPBD/dags:/opt/airflow/dags
+      - D:/INFRA_BIG_DATA/Projek_IPBD/scraper:/opt/airflow/dags/scraper
+    environment:
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - _AIRFLOW_WWW_USER_USERNAME=airflow
+      - _AIRFLOW_WWW_USER_PASSWORD=airflow
+      - _AIRFLOW_WWW_USER_FIRSTNAME=airflow
+      - _AIRFLOW_WWW_USER_LASTNAME=airflow
+      - _AIRFLOW_WWW_USER_ROLE=Admin
+      - _AIRFLOW_WWW_USER_EMAIL=airflow@example.com
+      - _PIP_ADDITIONAL_REQUIREMENTS=requests beautifulsoup4 pandas
+    command: standalone

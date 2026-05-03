@@ -1,0 +1,30 @@
+{
+  "scraped_at": "2026-04-26T19:48:53.667267",
+  "source": "cnbcindonesia.com + antaranews.com + esdm.go.id",
+  "description": "Indonesian fuel subsidy data - explains why prices remain stable despite global increases",
+  "fiscal_year": 2026,
+  "subsidy_details": {
+    "total_subsidy_trillion_idr": 105.4,
+    "volume_kl": 19162000,
+    "volume_breakdown": {
+      "solar_kl": 19161474000,
+      "kerosene_kl": 526000
+    },
+    "icp_average_usd": 77,
+    "icp_budget_usd": 70,
+    "subsidy_per_liter": {
+      "solar": 1000,
+      "kerosene": 1000
+    },
+    "domestic_production_mbpd": 0.61,
+    "import_needs_mbpd": 1.0,
+    "total_consumption_mbpd": 1.6,
+    "lpg_volume_mt": 8.31,
+    "electricity_subsidy_trillion_idr": 101.72
+  },
+  "notes": {
+    "price_stability": "ICP averages $77/barrel vs budget $70/barrel",
+    "policy": "Subsidized fuel prices fixed through end of 2026",
+    "why_indonesia_cheap": "Government absorbs Rp 101.72 trillion in subsidies"
+  }
+}

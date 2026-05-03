@@ -1,0 +1,425 @@
+{
+  "scraped_at": "2026-05-03T10:14:09.602918",
+  "source": "oilpriceapi.com",
+  "current_prices": [
+    {
+      "code": "BRENT_CRUDE_USD",
+      "price": 108.17,
+      "currency": "USD",
+      "unit": "barrel",
+      "source": "oilprice.business_insider",
+      "updated": "2026-05-03T10:04:24.359Z"
+    },
+    {
+      "code": "WTI_USD",
+      "price": 101.94,
+      "currency": "USD",
+      "unit": "barrel",
+      "source": "oilprice.business_insider",
+      "updated": "2026-05-03T10:04:20.831Z"
+    },
+    {
+      "code": "NATURAL_GAS_USD",
+      "price": 2.78,
+      "currency": "USD",
+      "unit": "mmbtu",
+      "source": "oilprice.business_insider",
+      "updated": "2026-05-03T10:04:28.864Z"
+    }
+  ],
+  "historical": {
+    "BRENT_CRUDE_USD": {
+      "name": "Brent Crude",
+      "unit": "barrel",
+      "data": [
+        {
+          "date": "2026-05-02",
+          "price": 108.17,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-05-01",
+          "price": 109.78,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-30",
+          "price": 117.38,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-29",
+          "price": 115.76,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-28",
+          "price": 110.9,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-27",
+          "price": 107.77,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-26",
+          "price": 105.78,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-25",
+          "price": 105.33,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-24",
+          "price": 105.66,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-23",
+          "price": 103.6,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-22",
+          "price": 99.97,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-21",
+          "price": 96.34,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-20",
+          "price": 95.07,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-19",
+          "price": 91.54,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-18",
+          "price": 90.38,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-17",
+          "price": 94.18,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-16",
+          "price": 96.92,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-15",
+          "price": 95.28,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-14",
+          "price": 97.15,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-13",
+          "price": 101.21,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-12",
+          "price": 96.13,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-11",
+          "price": 95.2,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-10",
+          "price": 96.24,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-09",
+          "price": 97.3,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-08",
+          "price": 94.29,
+          "currency": "USD"
+        }
+      ]
+    },
+    "WTI_USD": {
+      "name": "West Texas Intermediate",
+      "unit": "barrel",
+      "data": [
+        {
+          "date": "2026-05-02",
+          "price": 101.94,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-05-01",
+          "price": 103.48,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-30",
+          "price": 106.19,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-29",
+          "price": 104.13,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-28",
+          "price": 99.43,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-27",
+          "price": 96.23,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-26",
+          "price": 94.99,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-25",
+          "price": 94.47,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-24",
+          "price": 95.51,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-23",
+          "price": 94.6,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-22",
+          "price": 91.05,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-21",
+          "price": 88.98,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-20",
+          "price": 88.61,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-19",
+          "price": 85.59,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-18",
+          "price": 83.86,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-17",
+          "price": 89.11,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-16",
+          "price": 92.85,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-15",
+          "price": 91.54,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-14",
+          "price": 95.07,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-13",
+          "price": 100.59,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-12",
+          "price": 97.79,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-11",
+          "price": 96.56,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-10",
+          "price": 98.19,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-09",
+          "price": 98.53,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-08",
+          "price": 95.13,
+          "currency": "USD"
+        }
+      ]
+    },
+    "NATURAL_GAS_USD": {
+      "name": "Natural Gas (Henry Hub)",
+      "unit": "mmbtu",
+      "data": [
+        {
+          "date": "2026-05-02",
+          "price": 2.78,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-05-01",
+          "price": 2.78,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-30",
+          "price": 2.67,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-29",
+          "price": 2.64,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-28",
+          "price": 2.53,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-27",
+          "price": 2.55,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-26",
+          "price": 2.52,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-25",
+          "price": 2.52,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-24",
+          "price": 2.54,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-23",
+          "price": 2.67,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-22",
+          "price": 2.72,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-21",
+          "price": 2.68,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-20",
+          "price": 2.71,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-19",
+          "price": 2.67,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-18",
+          "price": 2.67,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-17",
+          "price": 2.67,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-16",
+          "price": 2.63,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-15",
+          "price": 2.6,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-14",
+          "price": 2.6,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-13",
+          "price": 2.67,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-12",
+          "price": 2.65,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-11",
+          "price": 2.65,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-10",
+          "price": 2.66,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-09",
+          "price": 2.71,
+          "currency": "USD"
+        },
+        {
+          "date": "2026-04-08",
+          "price": 2.74,
+          "currency": "USD"
+        }
+      ]
+    }
+  }
+}

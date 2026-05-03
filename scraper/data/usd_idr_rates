@@ -1,0 +1,164 @@
+{
+  "scraped_at": "2026-05-03T10:14:07.453213",
+  "source": "yahoo.finance",
+  "currency_pair": "USD/IDR",
+  "description": "Indonesian Rupiah exchange rate to USD - 30 days history",
+  "current_rate": 17345.0,
+  "historical": [
+    {
+      "date": "2026-03-23",
+      "rate": 16959.3,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-03-24",
+      "rate": 16865.1,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-03-25",
+      "rate": 16797.3,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-03-26",
+      "rate": 16749.6,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-03-27",
+      "rate": 16925.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-03-29",
+      "rate": 16958.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-03-30",
+      "rate": 16975.4,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-03-31",
+      "rate": 16936.4,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-01",
+      "rate": 16924.1,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-02",
+      "rate": 16959.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-05",
+      "rate": 16988.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-06",
+      "rate": 17015.3,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-07",
+      "rate": 17027.4,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-08",
+      "rate": 17005.5,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-09",
+      "rate": 17059.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-12",
+      "rate": 17083.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-13",
+      "rate": 17079.2,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-14",
+      "rate": 17129.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-15",
+      "rate": 17146.1,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-16",
+      "rate": 17123.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-19",
+      "rate": 17133.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-20",
+      "rate": 17123.8,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-21",
+      "rate": 17133.1,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-22",
+      "rate": 17199.5,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-23",
+      "rate": 17329.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-26",
+      "rate": 17246.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-27",
+      "rate": 17216.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-28",
+      "rate": 17244.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-29",
+      "rate": 17334.2,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-04-30",
+      "rate": 17311.0,
+      "currency": "IDR"
+    },
+    {
+      "date": "2026-05-02",
+      "rate": 17345.0,
+      "currency": "IDR"
+    }
+  ]
+}
