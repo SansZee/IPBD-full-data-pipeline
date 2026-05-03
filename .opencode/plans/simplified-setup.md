@@ -1,3 +1,29 @@
+# Simplified Docker Compose Setup
+
+## Changes
+
+### docker-compose.yml
+- **Removed**: Redis, Flower, airflow-cli, airflow-dag-processor, airflow-triggerer, airflow-apiserver (CeleryExecutor services)
+- **Changed**: `CeleryExecutor` → `LocalExecutor`
+- **Added**: `metabase-data` volume untuk persist data Metabase
+- **Changed**: Metabase DB dari `airflow_db` → `metabase_db` (terpisah)
+
+### Remaining services (5 total)
+1. **postgres** - PostgreSQL 16, exposed di port 5432, dengan `airflow_db`
+2. **airflow-init** - Init container (db migrate + create user)
+3. **airflow-webserver** - Airflow UI di port 8080
+4. **airflow-scheduler** - Scheduler untuk DAGs
+5. **metabase** - Metabase di port 3000, pakai DB `metabase_db`
+
+### .env
+No changes needed, tetap sama.
+
+### Dockerfile
+No changes needed, tetap sama.
+
+## New docker-compose.yml content
+
+```yaml
 x-airflow-common:
   &airflow-common
   build: .
@@ -25,14 +51,13 @@ x-airflow-common:
 
 services:
   postgres:
-    image: postgres:15
+    image: postgres:16
     environment:
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: admin123
       POSTGRES_DB: airflow_db
     volumes:
       - postgres-data:/var/lib/postgresql/data
-      - ./config/init-metabase.sql:/docker-entrypoint-initdb.d/init-metabase.sql
     ports:
       - "5432:5432"
     healthcheck:
@@ -132,3 +157,36 @@ services:
 volumes:
   postgres-data:
   metabase-data:
+```
+
+## Setup steps setelah apply
+
+1. `docker compose up -d`
+2. Access:
+   - Airflow: http://localhost:8080 (user: airflow, pass: airflow)
+   - Metabase: http://localhost:3000
+
+## Tambahan: init script untuk metabase_db
+
+Karena PostgreSQL image cuma auto-create `POSTGRES_DB` (airflow_db), perlu init script untuk buat `metabase_db`:
+
+Buat file `config/init-metabase.sql`:
+```sql
+CREATE DATABASE metabase_db;
+```
+
+Lalu update postgres service di docker-compose.yml:
+```yaml
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin123
+      POSTGRES_DB: airflow_db
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./config/init-metabase.sql:/docker-entrypoint-initdb.d/init-metabase.sql
+```
+
+## Catatan
+- Metabase butuh DB `metabase_db` yang perlu dibuat terlebih dahulu. Bisa pakai init script di `/docker-entrypoint-initdb.d/` atau buat manual setelah PostgreSQL jalan.
