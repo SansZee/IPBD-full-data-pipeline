@@ -2,8 +2,7 @@ import os
 from airflow import DAG
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 from airflow.operators.python import PythonOperator
-from airflow.utils.dates import days_ago
-from datetime import timedelta
+from datetime import datetime, timedelta
 import json
 
 DEFAULT_ARGS = {
@@ -387,7 +386,7 @@ with DAG(
     default_args=DEFAULT_ARGS,
     description="Ingest ASEAN energy data into Postgres",
     schedule_interval="@daily",
-    start_date=days_ago(1),
+    start_date=datetime.now() - timedelta(days=1),
     catchup=False,
     tags=["energy", "asean", "etl"],
 ) as dag:
