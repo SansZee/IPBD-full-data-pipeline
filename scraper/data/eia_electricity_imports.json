@@ -1,0 +1,1727 @@
+{
+  "scraped_at": "2026-05-03T15:41:21.383220",
+  "source": "eia.gov",
+  "description": "Electricity imports data for Southeast Asian countries",
+  "summary": {
+    "total_countries": 10,
+    "successful": 9,
+    "failed": 1
+  },
+  "data": {
+    "Indonesia": {
+      "country": "Indonesia",
+      "series": {
+        "INTL.2-3-IDN-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": 0.0
+            },
+            {
+              "year": 1981,
+              "value": 0.0
+            },
+            {
+              "year": 1982,
+              "value": 0.0
+            },
+            {
+              "year": 1983,
+              "value": 0.0
+            },
+            {
+              "year": 1984,
+              "value": 0.0
+            },
+            {
+              "year": 1985,
+              "value": 0.0
+            },
+            {
+              "year": 1986,
+              "value": 0.0
+            },
+            {
+              "year": 1987,
+              "value": 0.0
+            },
+            {
+              "year": 1988,
+              "value": 0.0
+            },
+            {
+              "year": 1989,
+              "value": 0.0
+            },
+            {
+              "year": 1990,
+              "value": 0.0
+            },
+            {
+              "year": 1991,
+              "value": 0.0
+            },
+            {
+              "year": 1992,
+              "value": 0.0
+            },
+            {
+              "year": 1993,
+              "value": 0.0
+            },
+            {
+              "year": 1994,
+              "value": 0.0
+            },
+            {
+              "year": 1995,
+              "value": 0.0
+            },
+            {
+              "year": 1996,
+              "value": 0.0
+            },
+            {
+              "year": 1997,
+              "value": 0.0
+            },
+            {
+              "year": 1998,
+              "value": 0.0
+            },
+            {
+              "year": 1999,
+              "value": 0.0
+            },
+            {
+              "year": 2000,
+              "value": 0.0
+            },
+            {
+              "year": 2001,
+              "value": 0.0
+            },
+            {
+              "year": 2002,
+              "value": 0.0
+            },
+            {
+              "year": 2003,
+              "value": 0.0
+            },
+            {
+              "year": 2004,
+              "value": 0.0
+            },
+            {
+              "year": 2005,
+              "value": 0.0
+            },
+            {
+              "year": 2006,
+              "value": 0.0
+            },
+            {
+              "year": 2007,
+              "value": 0.0
+            },
+            {
+              "year": 2008,
+              "value": 0.0
+            },
+            {
+              "year": 2009,
+              "value": "(s)"
+            },
+            {
+              "year": 2010,
+              "value": "(s)"
+            },
+            {
+              "year": 2011,
+              "value": "(s)"
+            },
+            {
+              "year": 2012,
+              "value": "(s)"
+            },
+            {
+              "year": 2013,
+              "value": "(s)"
+            },
+            {
+              "year": 2014,
+              "value": "(s)"
+            },
+            {
+              "year": 2015,
+              "value": "(s)"
+            },
+            {
+              "year": 2016,
+              "value": 0.7
+            },
+            {
+              "year": 2017,
+              "value": 1.1
+            },
+            {
+              "year": 2018,
+              "value": 1.5
+            },
+            {
+              "year": 2019,
+              "value": 1.7
+            },
+            {
+              "year": 2020,
+              "value": 1.6
+            },
+            {
+              "year": 2021,
+              "value": 1.0
+            },
+            {
+              "year": 2022,
+              "value": 0.8
+            },
+            {
+              "year": 2023,
+              "value": 0.9
+            },
+            {
+              "year": 2024,
+              "value": 1.0
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 45
+        }
+      }
+    },
+    "Malaysia": {
+      "country": "Malaysia",
+      "series": {
+        "INTL.2-3-MYS-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": "(s)"
+            },
+            {
+              "year": 1981,
+              "value": "(s)"
+            },
+            {
+              "year": 1982,
+              "value": "(s)"
+            },
+            {
+              "year": 1983,
+              "value": "(s)"
+            },
+            {
+              "year": 1984,
+              "value": "(s)"
+            },
+            {
+              "year": 1985,
+              "value": "(s)"
+            },
+            {
+              "year": 1986,
+              "value": "(s)"
+            },
+            {
+              "year": 1987,
+              "value": 0.0
+            },
+            {
+              "year": 1988,
+              "value": "(s)"
+            },
+            {
+              "year": 1989,
+              "value": "(s)"
+            },
+            {
+              "year": 1990,
+              "value": 0.1
+            },
+            {
+              "year": 1991,
+              "value": 0.1
+            },
+            {
+              "year": 1992,
+              "value": 0.2
+            },
+            {
+              "year": 1993,
+              "value": 0.1
+            },
+            {
+              "year": 1994,
+              "value": 0.1
+            },
+            {
+              "year": 1995,
+              "value": 0.2
+            },
+            {
+              "year": 1996,
+              "value": 0.1
+            },
+            {
+              "year": 1997,
+              "value": "(s)"
+            },
+            {
+              "year": 1998,
+              "value": "(s)"
+            },
+            {
+              "year": 1999,
+              "value": "(s)"
+            },
+            {
+              "year": 2000,
+              "value": "(s)"
+            },
+            {
+              "year": 2001,
+              "value": "(s)"
+            },
+            {
+              "year": 2002,
+              "value": "(s)"
+            },
+            {
+              "year": 2003,
+              "value": 0.0
+            },
+            {
+              "year": 2004,
+              "value": "(s)"
+            },
+            {
+              "year": 2005,
+              "value": "(s)"
+            },
+            {
+              "year": 2006,
+              "value": "(s)"
+            },
+            {
+              "year": 2007,
+              "value": "(s)"
+            },
+            {
+              "year": 2008,
+              "value": 0.1
+            },
+            {
+              "year": 2009,
+              "value": "(s)"
+            },
+            {
+              "year": 2010,
+              "value": 0.0
+            },
+            {
+              "year": 2011,
+              "value": 0.4
+            },
+            {
+              "year": 2012,
+              "value": 0.1
+            },
+            {
+              "year": 2013,
+              "value": 0.2
+            },
+            {
+              "year": 2014,
+              "value": "(s)"
+            },
+            {
+              "year": 2015,
+              "value": "(s)"
+            },
+            {
+              "year": 2016,
+              "value": "(s)"
+            },
+            {
+              "year": 2017,
+              "value": "(s)"
+            },
+            {
+              "year": 2018,
+              "value": "(s)"
+            },
+            {
+              "year": 2019,
+              "value": "(s)"
+            },
+            {
+              "year": 2020,
+              "value": "(s)"
+            },
+            {
+              "year": 2021,
+              "value": "(s)"
+            },
+            {
+              "year": 2022,
+              "value": "(s)"
+            },
+            {
+              "year": 2023,
+              "value": "(s)"
+            },
+            {
+              "year": 2024,
+              "value": "(s)"
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 45
+        }
+      }
+    },
+    "Vietnam": {
+      "country": "Vietnam",
+      "series": {
+        "INTL.2-3-THA-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": 0.8
+            },
+            {
+              "year": 1981,
+              "value": 0.7
+            },
+            {
+              "year": 1982,
+              "value": 0.8
+            },
+            {
+              "year": 1983,
+              "value": 0.7
+            },
+            {
+              "year": 1984,
+              "value": 0.7
+            },
+            {
+              "year": 1985,
+              "value": 0.7
+            },
+            {
+              "year": 1986,
+              "value": 0.6
+            },
+            {
+              "year": 1987,
+              "value": 0.4
+            },
+            {
+              "year": 1988,
+              "value": 0.4
+            },
+            {
+              "year": 1989,
+              "value": 0.5
+            },
+            {
+              "year": 1990,
+              "value": 0.6
+            },
+            {
+              "year": 1991,
+              "value": 0.6
+            },
+            {
+              "year": 1992,
+              "value": 0.5
+            },
+            {
+              "year": 1993,
+              "value": 0.6
+            },
+            {
+              "year": 1994,
+              "value": 0.9
+            },
+            {
+              "year": 1995,
+              "value": 0.7
+            },
+            {
+              "year": 1996,
+              "value": 0.8
+            },
+            {
+              "year": 1997,
+              "value": 0.7
+            },
+            {
+              "year": 1998,
+              "value": 1.6
+            },
+            {
+              "year": 1999,
+              "value": 2.3
+            },
+            {
+              "year": 2000,
+              "value": 3.0
+            },
+            {
+              "year": 2001,
+              "value": 2.9
+            },
+            {
+              "year": 2002,
+              "value": 2.8
+            },
+            {
+              "year": 2003,
+              "value": 2.5
+            },
+            {
+              "year": 2004,
+              "value": 3.4
+            },
+            {
+              "year": 2005,
+              "value": 4.4
+            },
+            {
+              "year": 2006,
+              "value": 5.2
+            },
+            {
+              "year": 2007,
+              "value": 4.5
+            },
+            {
+              "year": 2008,
+              "value": 2.8
+            },
+            {
+              "year": 2009,
+              "value": 2.5
+            },
+            {
+              "year": 2010,
+              "value": 7.3
+            },
+            {
+              "year": 2011,
+              "value": 11.0
+            },
+            {
+              "year": 2012,
+              "value": 11.0
+            },
+            {
+              "year": 2013,
+              "value": 13.0
+            },
+            {
+              "year": 2014,
+              "value": 12.0
+            },
+            {
+              "year": 2015,
+              "value": 14.0
+            },
+            {
+              "year": 2016,
+              "value": 20.0
+            },
+            {
+              "year": 2017,
+              "value": 24.0
+            },
+            {
+              "year": 2018,
+              "value": 27.0
+            },
+            {
+              "year": 2019,
+              "value": 26.0
+            },
+            {
+              "year": 2020,
+              "value": 30.0
+            },
+            {
+              "year": 2021,
+              "value": 33.0
+            },
+            {
+              "year": 2022,
+              "value": 35.0
+            },
+            {
+              "year": 2023,
+              "value": 33.0
+            },
+            {
+              "year": 2024,
+              "value": 36.0
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 45
+        }
+      }
+    },
+    "Philippines": {
+      "country": "Philippines",
+      "series": {
+        "INTL.2-3-PHL-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": 0.0
+            },
+            {
+              "year": 1981,
+              "value": 0.0
+            },
+            {
+              "year": 1982,
+              "value": 0.0
+            },
+            {
+              "year": 1983,
+              "value": 0.0
+            },
+            {
+              "year": 1984,
+              "value": 0.0
+            },
+            {
+              "year": 1985,
+              "value": 0.0
+            },
+            {
+              "year": 1986,
+              "value": 0.0
+            },
+            {
+              "year": 1987,
+              "value": 0.0
+            },
+            {
+              "year": 1988,
+              "value": 0.0
+            },
+            {
+              "year": 1989,
+              "value": 0.0
+            },
+            {
+              "year": 1990,
+              "value": 0.0
+            },
+            {
+              "year": 1991,
+              "value": 0.0
+            },
+            {
+              "year": 1992,
+              "value": 0.0
+            },
+            {
+              "year": 1993,
+              "value": 0.0
+            },
+            {
+              "year": 1994,
+              "value": 0.0
+            },
+            {
+              "year": 1995,
+              "value": 0.0
+            },
+            {
+              "year": 1996,
+              "value": 0.0
+            },
+            {
+              "year": 1997,
+              "value": 0.0
+            },
+            {
+              "year": 1998,
+              "value": 0.0
+            },
+            {
+              "year": 1999,
+              "value": 0.0
+            },
+            {
+              "year": 2000,
+              "value": 0.0
+            },
+            {
+              "year": 2001,
+              "value": 0.0
+            },
+            {
+              "year": 2002,
+              "value": 0.0
+            },
+            {
+              "year": 2003,
+              "value": 0.0
+            },
+            {
+              "year": 2004,
+              "value": 0.0
+            },
+            {
+              "year": 2005,
+              "value": 0.0
+            },
+            {
+              "year": 2006,
+              "value": 0.0
+            },
+            {
+              "year": 2007,
+              "value": 0.0
+            },
+            {
+              "year": 2008,
+              "value": 0.0
+            },
+            {
+              "year": 2009,
+              "value": 0.0
+            },
+            {
+              "year": 2010,
+              "value": 0.0
+            },
+            {
+              "year": 2011,
+              "value": 0.0
+            },
+            {
+              "year": 2012,
+              "value": 0.0
+            },
+            {
+              "year": 2013,
+              "value": 0.0
+            },
+            {
+              "year": 2014,
+              "value": 0.0
+            },
+            {
+              "year": 2015,
+              "value": 0.0
+            },
+            {
+              "year": 2016,
+              "value": 0.0
+            },
+            {
+              "year": 2017,
+              "value": 0.0
+            },
+            {
+              "year": 2018,
+              "value": 0.0
+            },
+            {
+              "year": 2019,
+              "value": 0.0
+            },
+            {
+              "year": 2020,
+              "value": 0.0
+            },
+            {
+              "year": 2021,
+              "value": 0.0
+            },
+            {
+              "year": 2022,
+              "value": 0.0
+            },
+            {
+              "year": 2024,
+              "value": 0.0
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 44
+        }
+      }
+    },
+    "Singapore": {
+      "country": "Singapore",
+      "series": {
+        "INTL.2-3-SGP-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": 0.0
+            },
+            {
+              "year": 1981,
+              "value": 0.0
+            },
+            {
+              "year": 1982,
+              "value": 0.0
+            },
+            {
+              "year": 1983,
+              "value": "(s)"
+            },
+            {
+              "year": 1984,
+              "value": 0.0
+            },
+            {
+              "year": 1985,
+              "value": 0.0
+            },
+            {
+              "year": 1986,
+              "value": 0.0
+            },
+            {
+              "year": 1987,
+              "value": 0.0
+            },
+            {
+              "year": 1988,
+              "value": 0.0
+            },
+            {
+              "year": 1989,
+              "value": 0.0
+            },
+            {
+              "year": 1990,
+              "value": 0.0
+            },
+            {
+              "year": 1991,
+              "value": 0.0
+            },
+            {
+              "year": 1992,
+              "value": 0.0
+            },
+            {
+              "year": 1993,
+              "value": 0.0
+            },
+            {
+              "year": 1994,
+              "value": 0.0
+            },
+            {
+              "year": 1995,
+              "value": 0.0
+            },
+            {
+              "year": 1996,
+              "value": 0.0
+            },
+            {
+              "year": 1997,
+              "value": 0.0
+            },
+            {
+              "year": 1998,
+              "value": 0.0
+            },
+            {
+              "year": 1999,
+              "value": 0.0
+            },
+            {
+              "year": 2000,
+              "value": 0.0
+            },
+            {
+              "year": 2001,
+              "value": 0.0
+            },
+            {
+              "year": 2002,
+              "value": 0.0
+            },
+            {
+              "year": 2003,
+              "value": 0.0
+            },
+            {
+              "year": 2004,
+              "value": 0.0
+            },
+            {
+              "year": 2005,
+              "value": 0.0
+            },
+            {
+              "year": 2006,
+              "value": 0.0
+            },
+            {
+              "year": 2007,
+              "value": 0.0
+            },
+            {
+              "year": 2008,
+              "value": 0.0
+            },
+            {
+              "year": 2009,
+              "value": 0.0
+            },
+            {
+              "year": 2010,
+              "value": 0.0
+            },
+            {
+              "year": 2011,
+              "value": 0.0
+            },
+            {
+              "year": 2012,
+              "value": 0.0
+            },
+            {
+              "year": 2013,
+              "value": 0.0
+            },
+            {
+              "year": 2014,
+              "value": 0.0
+            },
+            {
+              "year": 2015,
+              "value": 0.0
+            },
+            {
+              "year": 2016,
+              "value": 0.0
+            },
+            {
+              "year": 2017,
+              "value": 0.0
+            },
+            {
+              "year": 2018,
+              "value": 0.0
+            },
+            {
+              "year": 2019,
+              "value": 0.0
+            },
+            {
+              "year": 2020,
+              "value": 0.0
+            },
+            {
+              "year": 2021,
+              "value": 0.0
+            },
+            {
+              "year": 2022,
+              "value": 0.0
+            },
+            {
+              "year": 2023,
+              "value": 0.0
+            },
+            {
+              "year": 2024,
+              "value": 0.0
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 45
+        }
+      }
+    },
+    "Myanmar": {
+      "country": "Myanmar",
+      "series": {
+        "INTL.2-3-MMR-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": 0.0
+            },
+            {
+              "year": 1981,
+              "value": 0.0
+            },
+            {
+              "year": 1982,
+              "value": 0.0
+            },
+            {
+              "year": 1983,
+              "value": 0.0
+            },
+            {
+              "year": 1984,
+              "value": 0.0
+            },
+            {
+              "year": 1985,
+              "value": 0.0
+            },
+            {
+              "year": 1986,
+              "value": 0.0
+            },
+            {
+              "year": 1987,
+              "value": 0.0
+            },
+            {
+              "year": 1988,
+              "value": 0.0
+            },
+            {
+              "year": 1989,
+              "value": 0.0
+            },
+            {
+              "year": 1990,
+              "value": 0.0
+            },
+            {
+              "year": 1991,
+              "value": 0.0
+            },
+            {
+              "year": 1992,
+              "value": 0.0
+            },
+            {
+              "year": 1993,
+              "value": 0.0
+            },
+            {
+              "year": 1994,
+              "value": 0.0
+            },
+            {
+              "year": 1995,
+              "value": 0.0
+            },
+            {
+              "year": 1996,
+              "value": 0.0
+            },
+            {
+              "year": 1997,
+              "value": 0.0
+            },
+            {
+              "year": 1998,
+              "value": 0.0
+            },
+            {
+              "year": 1999,
+              "value": 0.0
+            },
+            {
+              "year": 2000,
+              "value": 0.0
+            },
+            {
+              "year": 2001,
+              "value": 0.0
+            },
+            {
+              "year": 2002,
+              "value": 0.0
+            },
+            {
+              "year": 2003,
+              "value": 0.0
+            },
+            {
+              "year": 2004,
+              "value": 0.0
+            },
+            {
+              "year": 2005,
+              "value": 0.0
+            },
+            {
+              "year": 2006,
+              "value": 0.0
+            },
+            {
+              "year": 2007,
+              "value": 0.0
+            },
+            {
+              "year": 2008,
+              "value": 0.0
+            },
+            {
+              "year": 2009,
+              "value": 0.0
+            },
+            {
+              "year": 2010,
+              "value": 0.0
+            },
+            {
+              "year": 2011,
+              "value": 0.0
+            },
+            {
+              "year": 2012,
+              "value": 0.0
+            },
+            {
+              "year": 2013,
+              "value": 0.0
+            },
+            {
+              "year": 2014,
+              "value": 0.0
+            },
+            {
+              "year": 2015,
+              "value": 0.0
+            },
+            {
+              "year": 2016,
+              "value": 0.0
+            },
+            {
+              "year": 2017,
+              "value": 0.0
+            },
+            {
+              "year": 2018,
+              "value": 0.0
+            },
+            {
+              "year": 2019,
+              "value": 0.0
+            },
+            {
+              "year": 2020,
+              "value": 0.0
+            },
+            {
+              "year": 2021,
+              "value": 0.0
+            },
+            {
+              "year": 2022,
+              "value": 0.0
+            },
+            {
+              "year": 2023,
+              "value": 0.6
+            },
+            {
+              "year": 2024,
+              "value": "p|.2"
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 45
+        }
+      }
+    },
+    "Cambodia": {
+      "country": "Cambodia",
+      "series": {
+        "INTL.2-3-KHM-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": 0.0
+            },
+            {
+              "year": 1981,
+              "value": 0.0
+            },
+            {
+              "year": 1982,
+              "value": 0.0
+            },
+            {
+              "year": 1983,
+              "value": 0.0
+            },
+            {
+              "year": 1984,
+              "value": 0.0
+            },
+            {
+              "year": 1985,
+              "value": 0.0
+            },
+            {
+              "year": 1986,
+              "value": 0.0
+            },
+            {
+              "year": 1987,
+              "value": 0.0
+            },
+            {
+              "year": 1988,
+              "value": 0.0
+            },
+            {
+              "year": 1989,
+              "value": 0.0
+            },
+            {
+              "year": 1990,
+              "value": 0.0
+            },
+            {
+              "year": 1991,
+              "value": 0.0
+            },
+            {
+              "year": 1992,
+              "value": 0.0
+            },
+            {
+              "year": 1993,
+              "value": 0.0
+            },
+            {
+              "year": 1994,
+              "value": 0.0
+            },
+            {
+              "year": 1995,
+              "value": 0.0
+            },
+            {
+              "year": 1996,
+              "value": 0.0
+            },
+            {
+              "year": 1997,
+              "value": 0.0
+            },
+            {
+              "year": 1998,
+              "value": 0.0
+            },
+            {
+              "year": 1999,
+              "value": 0.0
+            },
+            {
+              "year": 2000,
+              "value": 0.0
+            },
+            {
+              "year": 2001,
+              "value": "(s)"
+            },
+            {
+              "year": 2002,
+              "value": "(s)"
+            },
+            {
+              "year": 2003,
+              "value": "(s)"
+            },
+            {
+              "year": 2004,
+              "value": "(s)"
+            },
+            {
+              "year": 2005,
+              "value": "(s)"
+            },
+            {
+              "year": 2006,
+              "value": "(s)"
+            },
+            {
+              "year": 2007,
+              "value": 0.1
+            },
+            {
+              "year": 2008,
+              "value": 0.3
+            },
+            {
+              "year": 2009,
+              "value": 0.7
+            },
+            {
+              "year": 2010,
+              "value": 1.5
+            },
+            {
+              "year": 2011,
+              "value": 1.8
+            },
+            {
+              "year": 2012,
+              "value": 2.1
+            },
+            {
+              "year": 2013,
+              "value": 2.3
+            },
+            {
+              "year": 2014,
+              "value": 1.8
+            },
+            {
+              "year": 2015,
+              "value": 1.5
+            },
+            {
+              "year": 2016,
+              "value": 1.6
+            },
+            {
+              "year": 2017,
+              "value": 1.4
+            },
+            {
+              "year": 2018,
+              "value": 1.6
+            },
+            {
+              "year": 2019,
+              "value": 3.1
+            },
+            {
+              "year": 2020,
+              "value": 3.8
+            },
+            {
+              "year": 2021,
+              "value": 3.4
+            },
+            {
+              "year": 2022,
+              "value": 4.8
+            },
+            {
+              "year": 2023,
+              "value": 3.4
+            },
+            {
+              "year": 2024,
+              "value": "p|3.3"
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 45
+        }
+      }
+    },
+    "Laos": {
+      "country": "Laos",
+      "series": {
+        "INTL.2-3-LAO-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": "(s)"
+            },
+            {
+              "year": 1981,
+              "value": "(s)"
+            },
+            {
+              "year": 1982,
+              "value": "(s)"
+            },
+            {
+              "year": 1983,
+              "value": "(s)"
+            },
+            {
+              "year": 1984,
+              "value": "(s)"
+            },
+            {
+              "year": 1985,
+              "value": "(s)"
+            },
+            {
+              "year": 1986,
+              "value": "(s)"
+            },
+            {
+              "year": 1987,
+              "value": "(s)"
+            },
+            {
+              "year": 1988,
+              "value": "(s)"
+            },
+            {
+              "year": 1989,
+              "value": "(s)"
+            },
+            {
+              "year": 1990,
+              "value": "(s)"
+            },
+            {
+              "year": 1991,
+              "value": "(s)"
+            },
+            {
+              "year": 1992,
+              "value": "(s)"
+            },
+            {
+              "year": 1993,
+              "value": "(s)"
+            },
+            {
+              "year": 1994,
+              "value": "(s)"
+            },
+            {
+              "year": 1995,
+              "value": "(s)"
+            },
+            {
+              "year": 1996,
+              "value": "(s)"
+            },
+            {
+              "year": 1997,
+              "value": "(s)"
+            },
+            {
+              "year": 1998,
+              "value": 0.1
+            },
+            {
+              "year": 1999,
+              "value": 0.2
+            },
+            {
+              "year": 2000,
+              "value": 0.2
+            },
+            {
+              "year": 2001,
+              "value": 0.2
+            },
+            {
+              "year": 2002,
+              "value": 0.2
+            },
+            {
+              "year": 2003,
+              "value": 0.2
+            },
+            {
+              "year": 2004,
+              "value": 0.3
+            },
+            {
+              "year": 2005,
+              "value": 0.3
+            },
+            {
+              "year": 2006,
+              "value": 0.6
+            },
+            {
+              "year": 2007,
+              "value": 0.8
+            },
+            {
+              "year": 2008,
+              "value": 0.8
+            },
+            {
+              "year": 2009,
+              "value": 1.2
+            },
+            {
+              "year": 2010,
+              "value": 1.2
+            },
+            {
+              "year": 2011,
+              "value": 0.9
+            },
+            {
+              "year": 2012,
+              "value": 1.3
+            },
+            {
+              "year": 2013,
+              "value": 1.3
+            },
+            {
+              "year": 2014,
+              "value": 1.6
+            },
+            {
+              "year": 2015,
+              "value": 2.1
+            },
+            {
+              "year": 2016,
+              "value": 0.9
+            },
+            {
+              "year": 2017,
+              "value": 0.5
+            },
+            {
+              "year": 2018,
+              "value": 0.3
+            },
+            {
+              "year": 2019,
+              "value": 1.3
+            },
+            {
+              "year": 2020,
+              "value": 1.5
+            },
+            {
+              "year": 2021,
+              "value": 1.3
+            },
+            {
+              "year": 2022,
+              "value": 0.9
+            },
+            {
+              "year": 2023,
+              "value": 1.8
+            },
+            {
+              "year": 2024,
+              "value": "p|1.3"
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 45
+        }
+      }
+    },
+    "Brunei": {
+      "country": "Brunei",
+      "series": {
+        "INTL.2-3-BRN-BKWH.A": {
+          "values": [
+            {
+              "year": 1980,
+              "value": 0.0
+            },
+            {
+              "year": 1981,
+              "value": 0.0
+            },
+            {
+              "year": 1982,
+              "value": 0.0
+            },
+            {
+              "year": 1983,
+              "value": 0.0
+            },
+            {
+              "year": 1984,
+              "value": 0.0
+            },
+            {
+              "year": 1985,
+              "value": 0.0
+            },
+            {
+              "year": 1986,
+              "value": 0.0
+            },
+            {
+              "year": 1987,
+              "value": 0.0
+            },
+            {
+              "year": 1988,
+              "value": 0.0
+            },
+            {
+              "year": 1989,
+              "value": 0.0
+            },
+            {
+              "year": 1990,
+              "value": 0.0
+            },
+            {
+              "year": 1991,
+              "value": 0.0
+            },
+            {
+              "year": 1992,
+              "value": 0.0
+            },
+            {
+              "year": 1993,
+              "value": 0.0
+            },
+            {
+              "year": 1994,
+              "value": 0.0
+            },
+            {
+              "year": 1995,
+              "value": 0.0
+            },
+            {
+              "year": 1996,
+              "value": 0.0
+            },
+            {
+              "year": 1997,
+              "value": 0.0
+            },
+            {
+              "year": 1998,
+              "value": 0.0
+            },
+            {
+              "year": 1999,
+              "value": 0.0
+            },
+            {
+              "year": 2000,
+              "value": 0.0
+            },
+            {
+              "year": 2001,
+              "value": 0.0
+            },
+            {
+              "year": 2002,
+              "value": 0.0
+            },
+            {
+              "year": 2003,
+              "value": 0.0
+            },
+            {
+              "year": 2004,
+              "value": 0.0
+            },
+            {
+              "year": 2005,
+              "value": 0.0
+            },
+            {
+              "year": 2006,
+              "value": 0.0
+            },
+            {
+              "year": 2007,
+              "value": 0.0
+            },
+            {
+              "year": 2008,
+              "value": 0.0
+            },
+            {
+              "year": 2009,
+              "value": 0.0
+            },
+            {
+              "year": 2010,
+              "value": 0.0
+            },
+            {
+              "year": 2011,
+              "value": 0.0
+            },
+            {
+              "year": 2012,
+              "value": 0.0
+            },
+            {
+              "year": 2013,
+              "value": 0.0
+            },
+            {
+              "year": 2014,
+              "value": 0.0
+            },
+            {
+              "year": 2015,
+              "value": 0.0
+            },
+            {
+              "year": 2016,
+              "value": 0.0
+            },
+            {
+              "year": 2017,
+              "value": 0.0
+            },
+            {
+              "year": 2018,
+              "value": 0.0
+            },
+            {
+              "year": 2019,
+              "value": 0.0
+            },
+            {
+              "year": 2020,
+              "value": 0.0
+            },
+            {
+              "year": 2021,
+              "value": 0.0
+            },
+            {
+              "year": 2022,
+              "value": 0.0
+            },
+            {
+              "year": 2023,
+              "value": 0.0
+            },
+            {
+              "year": 2024,
+              "value": 0.0
+            }
+          ],
+          "year_range": "1980-2024",
+          "total_records": 45
+        }
+      }
+    }
+  }
+}
