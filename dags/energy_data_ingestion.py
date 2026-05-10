@@ -2,6 +2,7 @@ import os
 from airflow import DAG
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 from airflow.operators.python import PythonOperator
+from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 import json
 
@@ -401,6 +402,19 @@ with DAG(
     tags=["energy", "asean", "etl"],
 ) as dag:
 
+    scrape_oil = BashOperator(
+        task_id="scrape_oil_prices",
+        bash_command="python /opt/airflow/scraper/scraping_oil.py",
+    )
+    scrape_coal = BashOperator(
+        task_id="scrape_coal_production",
+        bash_command="python /opt/airflow/scraper/eia_coal_production_scraper.py",
+    )
+    scrape_electricity = BashOperator(
+        task_id="scrape_electricity_imports",
+        bash_command="python /opt/airflow/scraper/eia_electricity_imports_scraper.py",
+    )
+
     t1 = PythonOperator(task_id="create_tables", python_callable=create_tables)
     t2 = PythonOperator(task_id="load_countries", python_callable=load_countries)
     t3 = PythonOperator(task_id="load_commodities", python_callable=load_commodities)
@@ -411,7 +425,7 @@ with DAG(
     t8 = PythonOperator(task_id="load_oil_historical", python_callable=load_oil_historical)
     t9 = PythonOperator(task_id="validate_summary", python_callable=validate_summary)
 
-    t1 >> t2 >> t3
+    [scrape_oil, scrape_coal, scrape_electricity] >> t1 >> t2 >> t3
     t3 >> [t4, t5, t6]
     t6 >> [t7, t8]
     [t4, t5, t7, t8] >> t9

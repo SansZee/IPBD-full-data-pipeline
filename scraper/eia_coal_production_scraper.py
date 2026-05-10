@@ -1,6 +1,7 @@
 import json
 import time
 import re
+import os
 from datetime import datetime
 import requests
 from selenium import webdriver
@@ -159,7 +160,7 @@ def main():
         "data": all_data,
     }
 
-    output_file = "/home/portolas/kuliah/ipbd/IPBD-full-data-pipeline/scraper/data/eia_coal_production.json"
+    output_file = os.path.join(os.path.dirname(__file__), "data", "eia_coal_production.json")
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 

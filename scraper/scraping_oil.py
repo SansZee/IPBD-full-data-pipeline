@@ -1,5 +1,6 @@
 import yfinance as yf
 import json
+import os
 from datetime import datetime
 
 TICKERS = {
@@ -74,7 +75,7 @@ def main():
         "historical": historical_data
     }
 
-    output_file = "/home/portolas/kuliah/ipbd/IPBD-full-data-pipeline/scraper/data/oil_prices.json"
+    output_file = os.path.join(os.path.dirname(__file__), "data", "oil_prices.json")
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)

@@ -82,6 +82,7 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config:z
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins:z
     - ${AIRFLOW_PROJ_DIR:-.}/scraper/data:/opt/airflow/data:z
+    - ${AIRFLOW_PROJ_DIR:-.}/scraper:/opt/airflow/scraper:z
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
